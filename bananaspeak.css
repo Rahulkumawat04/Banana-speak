@@ -1,0 +1,23 @@
+/* body{
+    text-align: center;
+} */
+
+#txt-input{
+    height: 20vh;
+    width: 80vh;
+    padding: 1rem;
+    margin-top: 2rem;
+}
+
+#btn-translate{
+    display: block;
+    padding: 1rem 2rem;
+    margin: 1rem;
+}
+
+#txt-output{
+    border: 1px solid black;
+    width: 80vh;
+    height: 20vh;
+}
+
