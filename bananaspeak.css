@@ -8,6 +8,7 @@ body{
     text-align: center;
     margin: 0rem 0rem;
     font-family: 'Caveat';
+    background-image: url("https://wallpapercave.com/wp/wp2885694.jpg");
 }
 
 #txt-input{
@@ -42,7 +43,7 @@ body{
 }
 
 h1{
-    background-color: gold;
+    /* background-color: gold; */
     padding: 2rem;
     margin: 0rem 0rem 2rem 0rem;
     font-family: 'Caveat';
@@ -57,7 +58,7 @@ footer {
     padding-left: 25%;
     padding-right: 25%;
     padding-bottom: 1rem;
-    background-color: gold;
+    /* background-color: gold; */
     text-align: center; 
     margin-top: 1rem;
 }
